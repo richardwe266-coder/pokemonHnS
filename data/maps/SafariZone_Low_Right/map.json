@@ -24,7 +24,9 @@
                             "direction":  "up"
                         }
                     ],
-    "object_events":  null,
+    "object_events":  [
+
+                      ],
     "warp_events":  [
 
                     ],
